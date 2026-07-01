@@ -18,7 +18,7 @@ const SLIDE_KEYS = [
 ];
 
 // Free-to-use Duomo photo from Unsplash
-const DUOMO_IMAGE = "https://images.unsplash.com/photo-1541370976299-4d24be63b919?w=800&q=80";
+const DUOMO_IMAGE = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Firenze_-_panorama_dal_piazzale_michelangelo.jpg/1280px-Firenze_-_panorama_dal_piazzale_michelangelo.jpg";
 
 function LogoPin() {
   return (

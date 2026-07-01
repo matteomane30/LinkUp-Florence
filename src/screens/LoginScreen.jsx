@@ -18,7 +18,7 @@ const SLIDE_KEYS = [
 ];
 
 // Free-to-use Duomo photo from Unsplash
-const DUOMO_IMAGE = "https://images.unsplash.com/photo-1534445867742-43195f401b6c?w=800&q=80";
+const DUOMO_IMAGE = "https://images.unsplash.com/photo-1541370976299-4d24be63b919?w=800&q=80";
 
 function LogoPin() {
   return (

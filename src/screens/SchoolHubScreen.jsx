@@ -45,7 +45,7 @@ export default function SchoolHubScreen() {
         <span style={{ fontSize: 36 }}>🏛️</span>
         <div>
           <h3 style={{ margin: 0, color: "#fff", fontSize: 16, fontWeight: 700 }}>
-            {currentUser?.school || "ISI Florence"}
+            {currentUser?.school || "Florence"}
           </h3>
           <p style={{ margin: "4px 0 0", color: "rgba(255,255,255,0.65)", fontSize: 12 }}>
             Official announcements and updates
